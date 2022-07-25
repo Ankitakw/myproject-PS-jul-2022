@@ -13,3 +13,7 @@ git status
 
 ## cheking commit history
 git log
+
+## adding a remote
+git remote add remote_name remote_url
+generally the default remote is called '''origin'''
